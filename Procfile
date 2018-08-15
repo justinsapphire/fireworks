@@ -1,1 +1,1 @@
-Worker: node fireworks.js
+worker: node fireworks.js
