@@ -1,0 +1,11 @@
+{
+  "name": "fireworks",
+  "version": "1.0.0",
+  "description": "A Bot for Nitrotainment that is inspired by Xmoreno's old bot. Because he said he wouldn't continue his other one.",
+  "main": "fireworks.js",
+  "scripts": {
+    "start": "node fireworks.js" 
+  },
+  "author": "sapphire",
+  "license": "ISC"
+}
